@@ -1,0 +1,10 @@
+# Backend
+backend/venv/
+backend/todos.db
+backend/__pycache__/
+
+# Frontend
+frontend/node_modules/
+
+# Sistema
+.DS_Store
